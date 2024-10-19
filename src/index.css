@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fh260/background/20230722/pngtree-minimalist-3d-rendering-futuristic-low-poly-background-of-black-triangles-image_3777474.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
